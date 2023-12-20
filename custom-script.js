@@ -1,0 +1,1 @@
+$(function(){setTimeout(function(){$('.loader_bg').fadeToggle();},1500);});function goBack(){window.history.back();}
